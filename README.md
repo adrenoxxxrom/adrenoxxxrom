@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 👋 👋
+
+<h1 align="center">I'm <a href="https://t.me/jenyavarenkin" target="_blank">Jenya</a> 
+<h2 align="center">Here is my <a href="https://github.com/adrenoxxxrom/LearningJavaCore" target="_blank">homework</a> 
+
+  
+
 
 <!--
 **adrenoxxxrom/adrenoxxxrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
