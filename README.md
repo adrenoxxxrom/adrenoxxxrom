@@ -1,7 +1,7 @@
 ### 👋 👋 👋
 
 <h2 align="left">I'm <a href="https://t.me/jenyavarenkin" target="_blank">Jenya</a> 
-<h3 align="left">My homework <a href="https://github.com/adrenoxxxrom/LearningJavaCore" target="_blank">is here</a> 
+<h3 align="left">My homework <a href="https://github.com/adrenoxxxrom/LearningJavaCore-Module-2" target="_blank">is here</a> 
 
   
 
